@@ -1,6 +1,6 @@
 #!/bin/bash
 # 设置变量
-INSTANCE_ID="i-010c5d634f3c48b2d" 
+INSTANCE_ID="i-010****48b2d" 
 # 替换为你的EC2实例ID\n
 ALARM_NAME="ec2-recover-${INSTANCE_ID}"
 ACTION_NAME="arn:aws:automate:us-east-1:ec2:recover" 
