@@ -1,11 +1,15 @@
 # EC2-AddAlarm-Script
 
 For AWS EC2 High Availability，We have 3 protection
+
 Option1、AWS EC2  simple Auto Recovery
+
 Option2、Manually Configure AWS EC CloudWatch Alarm，and Trigger reboot
+
 Option33、Send metric to Prometheus and trigger alarm， customer operation enginneer reboot EC2 manually。
 
 For option2
+
 A script here can help create alarm when we have hunderds EC2。
 
 Script User Guide：
