@@ -17,7 +17,7 @@ run alarm_mul_ec2.sh
 All Set!!!
 
 
-Note : If you need send email , you need to change the script .
+Note : If you need send email to customer when alarm triggering , you need to change the script .
 
 Reference : https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-alarm.html
 
